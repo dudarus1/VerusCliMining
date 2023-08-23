@@ -1,8 +1,8 @@
 {
 	"pools":[
 	{
-		"name": "Verus.io",
-        	"url": "stratum+tcp://pool.verus.io:9998",
+		"name": "zergpool",
+        	"url": "stratum+tcp://verushash.eu.zergpool.com:3300",
 		"timeout": 150
 	}
 	],
